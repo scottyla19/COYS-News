@@ -1,0 +1,50 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="HomeKit" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="secondaryTextColor">@color/colorHomeText</item>
+        <item name="listBackgroundColor">@android:color/white</item>
+    </style>
+
+    <style name="HomeKeeper" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorKeeperHome</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="secondaryTextColor">@color/colorPrimaryDark</item>
+        <item name="listBackgroundColor">@color/colorKeeperHome</item>
+
+    </style>
+
+    <style name="AwayKeeper" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorKeeperAway</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="secondaryTextColor">@color/colorPrimaryDark</item>
+        <item name="listBackgroundColor">@color/colorKeeperAway</item>
+    </style>
+
+    <style name="ThirdKit" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorAccent</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="secondaryTextColor">@color/colorPrimaryDark</item>
+        <item name="listBackgroundColor">@color/colorAccent</item>
+
+    </style>
+
+
+</resources>

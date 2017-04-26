@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0F204B</color>
+    <color name="colorPrimaryDark">#000033</color>
+    <color name="colorAccent">#C59D60</color>
+    <color name="colorKeeperHome">#59BADA</color>
+    <color name="colorHomeText">#DC4B4C</color>
+    <color name="colorKeeperAway">#F16F5F</color>
+</resources>

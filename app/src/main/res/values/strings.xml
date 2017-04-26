@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Come On You Spurs</string>
+    <!-- Settings Menu Item [CHAR LIMIT=NONE] -->
+    <string name="settings_menu_item">Kit</string>
+    <!-- Settings Activity Title [CHAR LIMIT=NONE] -->
+    <string name="settings_title">Choose a Kit</string>
+    <string name="settings_theme_label">Choose a Kit Theme</string>
+    <string name="settings_theme_key" translatable="false">0</string>
+    <string name="settings_theme_default" translatable="false">0</string>
+    <string name="no_news" >No news stories available.</string>
+    <string name="no_network" >You do not have access to the internet.</string>
+</resources>
